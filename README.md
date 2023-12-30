@@ -1,6 +1,5 @@
-### Hi there 👋
 ### Hey, I'm Mridvika 👋
-## I'm a 23-year-old developer based in Chicago, and I'm passionate about designing digital experiences.
+#### I'm a 23-year-old developer based in Chicago, and I'm passionate about designing digital experiences.
 * Check out my website to learn more about me.
 
 🔭 Current Endeavors
